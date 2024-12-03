@@ -1,1 +1,2 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anks-95&repo=github-readme-stats)](https://github.com/anks-95/github-readme-stats)
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=anks-95&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
